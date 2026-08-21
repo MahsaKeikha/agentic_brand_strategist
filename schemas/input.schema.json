@@ -1,0 +1,1 @@
+{"type":"object","properties":{"evidence":{"type":"array"},"audiences":{"type":"array"},"human_approval":{"type":"boolean"}}}
